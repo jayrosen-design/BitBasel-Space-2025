@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15747407.svg)](https://doi.org/10.5281/zenodo.15747407)
+
 ![BitBasel for Space](https://github.com/jayrosen-design/BitBasel-Space-2025/blob/main/images/default-firstframe.png)
 
 ## 🌕 BitBasel Space Program & Lunar Archival
