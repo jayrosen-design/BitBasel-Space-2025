@@ -13,28 +13,9 @@ This artwork was officially selected and will be launched via **SpaceX in late 2
 > “By preserving SDG-inspired art on the Moon, we affirm our commitment to global progress—across borders, and beyond planets.”
 
 
-https://www.artweek.com/events/united-states/art-launch/miami/art-impact-polkadot-bitbasel-launch-historic-sdg-art-mission
+[ArtWeek](https://www.artweek.com/events/united-states/art-launch/miami/art-impact-polkadot-bitbasel-launch-historic-sdg-art-mission)
 
 ---
-
-### 🛰️ Key Partners
-
-- **BitBasel** – Curator and organizer of the Art for Impact Space Program  
-- **Polkadot** – Sustainable blockchain platform and sponsor  
-- **GLPH (Galactic Library Preserve Humanity)** – Lunar archival initiative using Nanofiche technology  
-- **University of Florida Blockchain Lab** – Research partner validating submissions  
-- **NASA / CLPS / Astrobotic / SpaceX** – Launch and mission infrastructure (not artistic curators)
-
-> This project marks a visionary intersection of art, education, sustainability, and space innovation.
-
-
----
-
-## 🌕 Lunar Archival
-
-In 2025, this artwork was selected to be **digitally preserved aboard the Griffin-1 Lunar Lander** as part of the **BitBasel Space Program** and **AstroGLPH lunar archive**.  
-
-It is a declaration that literacy, imagination, and ocean conservation are universal values—worthy of preservation not just on Earth, but **on the Moon**.
 
 # 🌍 New Worlds Reading AR Expeditions  
 **Artwork Title**: *New Worlds Reading AR Expeditions*  
@@ -48,18 +29,13 @@ It is a declaration that literacy, imagination, and ocean conservation are unive
 
 ## 🚀 Artwork Overview
 
-**New Worlds Reading AR Expeditions**, developed at the **University of Florida College of Education**, is an immersive educational initiative aimed at addressing literacy gaps among 3rd–5th grade students. Designed to complement the **New Worlds Reading Initiative**, the project provides **free books shipped to homes**, and pairs them with **augmented reality (AR) mini-games** that reinforce vocabulary, reading confidence, and curiosity.
+**New Worlds Reading AR Expeditions**, developed at the **University of Florida College of Education**, addresses literacy gaps for 3rd–5th graders who are falling behind. Bundled with the **New Worlds Reading Initiative**, it provides free books delivered directly to students’ homes via a collaboration with the **UF Lastinger Center for Learning** and **Scholastic**. 
 
-This project is made possible through a collaboration with the **UF Lastinger Center for Learning**, **Scholastic**, and the **Florida Department of Education**.
+Inspired by Scholastic classics like "The Magic School Bus" and "Whale vs. Giant Squid", our team crafted immersive AR mini-games tied to each book’s subject matter—strengthening vocabulary, building reading confidence, and fostering a lifelong love of learning.
 
-The first themed experience, **Ocean AR**, focuses on Florida's marine ecology and conservation. In the *Bubble Pop* game:
+Ocean AR is the first themed expedition, centered on Florida ecology and marine conservation. In the "Bubble Pop" game, as this concept art illustrates, students point their tablets at floating bubbles to match prompts and reveal life-scale models of whales, sea turtles, clownfish, jellyfish, and more. 
 
-- Students scan floating AR bubbles using tablets  
-- Prompts reveal life-scale models of **whales**, **dolphins**, **clownfish**, **octopuses**, and more  
-- Gameplay reinforces vocabulary, comprehension, and ecological awareness  
-
-> _"Imagine reading about the ocean—then seeing a blue whale breach above your desk."_  
-This magical experience bridges literacy with environmental stewardship.
+By blending physical books with digital ecosystems, the experience sparks genuine curiosity - imagine reading about the ocean, then seeing a blue whale breach above your desk. This visceral connection cements both literary comprehension and environmental stewardship.
 
 ---
 
@@ -75,12 +51,27 @@ This magical experience bridges literacy with environmental stewardship.
 
 ---
 
-## 📚 Credits
+### 📚 Artwork Credits
 
-- **Artist**: Jay Rosen  
+- **Artist**: Jay Rosen
+- **Media**:  Gemini Imagen3 AI-Generated Artwork and Photoshop
+
+### New Worlds Reading AR Expeditions Credits
+- **Project Management**: Kayla Sharp, Jason Arnold, Shaunte Duggins  
+- **Development**: Jay Rosen, Rachel West, J.J. Marin  
+- **Research**: Nigel Newbutt, Yu-Chia Kao  
+- **Literacy**: Macy Geiger, Elizabeth McConney  
 - **Institution**: UF College of Education, Lastinger Center for Learning  
-- **Partners**: New Worlds Reading, PK Yonge, Florida Department of Education  
-- **BitBasel Space Art for Impact Partners**: UF Blockchain Research Lab, Polkadot, NASA, SpaceX, AstroGLPH, Astrobotic
+- **Partners**: New Worlds Reading, PK Yonge Developmental Research School, Florida Department of Education  
+
+
+### 🛰️ BitBasel Space Art for Impact Partners
+
+- **BitBasel** – Curator and organizer of the Art for Impact Space Program  
+- **Polkadot** – Sustainable blockchain platform and sponsor  
+- **GLPH (Galactic Library Preserve Humanity)** – Lunar archival initiative using Nanofiche technology  
+- **University of Florida Blockchain Lab** – Research partner validating submissions  
+- **NASA / CLPS / Astrobotic / SpaceX** – Launch and mission infrastructure (not artistic curators)
 
 ---
 
