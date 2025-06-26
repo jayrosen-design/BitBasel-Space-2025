@@ -17,7 +17,8 @@ This artwork was officially selected and will be launched via **SpaceX in late 2
 # 🌍 New Worlds Reading AR Expeditions  
 **Artwork Title**: *New Worlds Reading AR Expeditions*  
 **Artist**: Jay Rosen  
-**Date**: May 8, 2025  
+**Date**: May 8, 2025<br>
+**Media**: Gemini Imagen 3 AI-Generated Artwork and Photoshop
 
 ![New Worlds Reading AR Expeditions](./BitBasel%202025,%20Jay%20Rosen,%20New%20Worlds%20Reading%20AR%20Expeditions.png)
 
@@ -47,11 +48,6 @@ By blending physical books with digital ecosystems, the experience sparks genuin
 | ![SDG 17](https://github.com/jayrosen-design/BitBasel-Space-2025/blob/main/images/E_SDG_Icons-17.jpg) | **SDG 17 – Partnerships for the Goals**<br>Embodies cross-sector collaboration among UF educators, instructional designers, researchers, the Florida Department of Education, PK Yonge Developmental Research School, and Scholastic. |
 
 ---
-
-### 📚 Artwork Credits
-
-- **Artist**: Jay Rosen
-- **Media**:  Gemini Imagen3 AI-Generated Artwork and Photoshop
 
 ### New Worlds Reading AR Expeditions Credits
 - **Project Management**: Kayla Sharp, Jason Arnold, Shaunte Duggins  
