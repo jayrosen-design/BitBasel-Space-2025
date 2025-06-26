@@ -10,9 +10,6 @@ As a global first, artists were invited to submit works interpreting the **UN's 
 
 This artwork was officially selected and will be launched via **SpaceX in late 2025**, ensuring that its vision of education, conservation, and innovation is etched into the cultural legacy of space.
 
-> “By preserving SDG-inspired art on the Moon, we affirm our commitment to global progress—across borders, and beyond planets.”
-
-
 [ArtWeek](https://www.artweek.com/events/united-states/art-launch/miami/art-impact-polkadot-bitbasel-launch-historic-sdg-art-mission)
 
 ---
